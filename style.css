@@ -20,11 +20,7 @@ h1 {
 h2 {
 	text-align: center;
 }
-img {
-	margin-left: auto;
-	margin-right: auto;
-	display: block;
-}
+
 .btn {
 	font-weight: 700;
 	border-radius: 300px;
@@ -34,9 +30,11 @@ img {
 .btn-primary {
 	background-color: #490411; 
 	border-color: #490411; 
+
 }
 .btn-xl {
 	padding: 1rem 2rem;
+
 }
 .btn-primary:hover {
 	background-color: #FFBF4D;
